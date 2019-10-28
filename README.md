@@ -25,7 +25,7 @@ First of all, we collect data from the given source. Since this project belongs 
 ![Screenshot_9](https://user-images.githubusercontent.com/46135898/67658125-838ea200-f97a-11e9-9c97-03fc833db071.png)
 <a id='l2'></a>
 ### 2. Data Understanding:
-Then we start understanding data by applying basic pandas statistical methods on dataframe.
+Then we start understanding data by applying basic pandas statistical methods on both dataframes.
 
 ![Screenshot_11](https://user-images.githubusercontent.com/46135898/67658138-8ee1cd80-f97a-11e9-9a5f-82df8497085e.png)
 

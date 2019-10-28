@@ -19,6 +19,7 @@ Now we explain every step of our project in detail with screenshots.
 <a id='l1'></a>
 ### 1. Data Collection: 
 First of all, we collect data from the given source. Since this project belongs to <b> Coursera Project</b>, So we use link provided by Coursera to read both csv files(gdp & unemployment).
-https://github.com/ABDULSABOOR1995/Analysis-of-US-Economic-Data/issues/1#issuecomment-546797071
+![Screenshot_7](https://user-images.githubusercontent.com/46135898/67655629-162b4300-f973-11e9-98d9-c34440b583ff.png)
+
 
 

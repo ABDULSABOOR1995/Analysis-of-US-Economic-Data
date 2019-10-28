@@ -58,7 +58,7 @@ In the end, we create dashboard of the result and save it with the name index.ht
 ![Screenshot_18](https://user-images.githubusercontent.com/46135898/67658216-c486b680-f97a-11e9-8ad3-0cc6b6e467bd.png)
 <a id='conclusion'></a>
 ## Conclusion:
-From the above data analysis, we can clearly observe that <b>when GDP goes over the Unemployment comes down and when GDP comes down, Unemployment goes over.</b> So the conclusion of <b> US Economic Data Analysis </b> is that <b>"Uemployment is inversely proportional to GDP"</b> 
+From the above data analysis, we can clearly observe that <b>when GDP goes over the Unemployment rate comes down and when GDP comes down, Unemployment rate goes over.</b> So the conclusion of <b> US Economic Data Analysis </b> is that <b>"Uemployment rate is inversely proportional to GDP"</b> 
 
 
 

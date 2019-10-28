@@ -5,7 +5,7 @@ Extracting essential data from a dataset and displaying it is a necessary part o
 <b>Gross domestic product (GDP)</b> is a measure of the market value of all the final goods and services produced in a period. GDP is an indicator of how well the economy is doing. A drop in GDP indicates the economy is producing less; similarly an increase in GDP suggests the economy is performing better. In this project, we will examine how changes in GDP impact the unemployment rate by using data visualizations such as Line and Bar Charts or by finding a correlation between GDP & unemployment rate.
 
 ## Explanation:
-Now we explain the every step of our project in detail with screenshots.
+Now we explain every step of our project in detail with screenshots.
 
 ## Table of Content:
 [1. Data Collection](#l1)<br>

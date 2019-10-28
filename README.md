@@ -42,7 +42,8 @@ Now its time to visualize data by creating Line and Bar charts for gdp and unemp
 
 ![Screenshot_14](https://user-images.githubusercontent.com/46135898/67658147-96a17200-f97a-11e9-87ee-245410c2f955.png)
 
-![Screenshot_15](https://user-images.githubusercontent.com/46135898/67658152-999c6280-f97a-11e9-8730-a8c3b2b7ed25.png)
+![Screenshot_20](https://user-images.githubusercontent.com/46135898/67715339-7b227f80-f9eb-11e9-8a21-ccd47b148288.png)
+
 <a id='l5'></a>
 ### 5. Comparison between GDP V/S Unemployment:
 In this stage we compare both tables by visualizing them in line or bar charts and observe the result.

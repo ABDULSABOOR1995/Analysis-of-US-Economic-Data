@@ -19,6 +19,6 @@ Now we explain every step of our project in detail with screenshots.
 <a id='l1'></a>
 ### 1. Data Collection: 
 First of all, we collect data from the given source. Since this project belongs to <b> Coursera Project</b>, So we use link provided by Coursera to read both csv files(gdp & unemployment).
-![alt text](C:/Users/d store/Documents/Screenshot_7.png? raw=true)
+![alt text](C:/Users/d store/Documents/Screenshot_7.png? raw=true "Title")
 
 

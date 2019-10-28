@@ -6,7 +6,7 @@ Extracting essential data from a dataset and displaying it is a necessary part o
 
 ## Explanation:
 Now we explain every step of our project in detail with screenshots.
-
+<a id='toc'></a>
 ## Table of Content:
 [1. Data Collection](#l1)<br>
 [2. Data Understanding](#l2)<br>
@@ -23,6 +23,8 @@ First of all, we collect data from the given source. Since this project belongs 
 ![Screenshot_8](https://user-images.githubusercontent.com/46135898/67658114-7d002a80-f97a-11e9-8c41-6d5d4bee485e.png)
 
 ![Screenshot_9](https://user-images.githubusercontent.com/46135898/67658125-838ea200-f97a-11e9-9c97-03fc833db071.png)
+
+[Table of Content](#toc)
 <a id='l2'></a>
 ### 2. Data Understanding:
 Then we start understanding data by applying basic pandas statistical methods on both dataframes.
@@ -30,11 +32,15 @@ Then we start understanding data by applying basic pandas statistical methods on
 ![Screenshot_11](https://user-images.githubusercontent.com/46135898/67658138-8ee1cd80-f97a-11e9-9a5f-82df8497085e.png)
 
 ![Screenshot_12](https://user-images.githubusercontent.com/46135898/67658141-92755480-f97a-11e9-8bc6-c150ce48251a.png)
+
+[Table of Content](#toc)
 <a id='l3'></a>
 ### 3. Data Cleaning:
 Now we prepare data for analysis by removing unnecessary columns exist in both tables(dataframes).
 
 ![Screenshot_13](https://user-images.githubusercontent.com/46135898/67715121-02bbbe80-f9eb-11e9-9edb-da8aa0d7be7a.png)
+
+[Table of Content](#toc)
 
 <a id='l4'></a>
 ### 4. Data Visualization:
@@ -44,6 +50,8 @@ Now its time to visualize data by creating Line and Bar charts for gdp and unemp
 
 ![Screenshot_20](https://user-images.githubusercontent.com/46135898/67715339-7b227f80-f9eb-11e9-8a21-ccd47b148288.png)
 
+[Table of Content](#toc)
+
 <a id='l5'></a>
 ### 5. Comparison between GDP V/S Unemployment:
 In this stage we compare both tables by visualizing them in line or bar charts and observe the result.
@@ -51,11 +59,15 @@ In this stage we compare both tables by visualizing them in line or bar charts a
 ![Screenshot_16](https://user-images.githubusercontent.com/46135898/67658169-a620bb00-f97a-11e9-902f-f66416693723.png)
 
 ![Screenshot_19](https://user-images.githubusercontent.com/46135898/67658234-d0727880-f97a-11e9-8d29-ed71ae7845e4.png)
+
+[Table of Content](#toc)
 <a id='l6'></a>
 ### 6. Creating Dashboard:
 In the end, we create dashboard of the result and save it with the name index.html.
 
 ![Screenshot_18](https://user-images.githubusercontent.com/46135898/67658216-c486b680-f97a-11e9-8ad3-0cc6b6e467bd.png)
+
+[Table of Content](#toc)
 <a id='conclusion'></a>
 ## Conclusion:
 From the above data analysis, we can clearly observe that <b>when GDP goes over the Unemployment rate comes down and when GDP comes down, Unemployment rate goes over.</b> So the conclusion of <b> US Economic Data Analysis </b> is that <b>"Uemployment rate is inversely proportional to GDP"</b> 

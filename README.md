@@ -7,3 +7,12 @@ Extracting essential data from a dataset and displaying it is a necessary part o
 ## Explanation:
 Now we explain the every step of our project in detail with screenshots.
 
+## Table of Content:
+[1. Data Collection](#l1)<br>
+[2. Data Understanding](#l2)<br>
+[3. Data Cleaning](#l3)<br>
+[4. Data Visualization](#l4)<br>
+[5. Comparison between GDP V/S Unemployment](#l5)<br>
+[6. Creating Dashboard](#l6)<br><br>
+[Conclusion](#conclusion)
+

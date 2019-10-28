@@ -1,4 +1,4 @@
-# Analysis of US Economic Data
+# Analysis of US Economic Data & Building Dashboard Using Python
  ## Overview:
 Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this assignment, we will extract some essential economic indicators from some data and then display these economic indicators in a Dashboard. We can then share the dashboard via a URL.
 

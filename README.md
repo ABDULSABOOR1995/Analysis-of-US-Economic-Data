@@ -34,7 +34,8 @@ Then we start understanding data by applying basic pandas statistical methods on
 ### 3. Data Cleaning:
 Now we prepare data for analysis by removing unnecessary columns exist in both tables(dataframes).
 
-![Screenshot_13](https://user-images.githubusercontent.com/46135898/67658145-94d7ae80-f97a-11e9-983d-a36c
+![Screenshot_13](https://user-images.githubusercontent.com/46135898/67715121-02bbbe80-f9eb-11e9-9edb-da8aa0d7be7a.png)
+
 <a id='l4'></a>
 ### 4. Data Visualization:
 Now its time to visualize data by creating Line and Bar charts for gdp and unemployement table.

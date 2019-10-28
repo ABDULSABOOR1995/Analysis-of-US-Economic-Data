@@ -24,6 +24,33 @@ First of all, we collect data from the given source. Since this project belongs 
 
 ![Screenshot_9](https://user-images.githubusercontent.com/46135898/67658125-838ea200-f97a-11e9-9c97-03fc833db071.png)
 
+### 2. Data Understanding:
+Then we start understanding data by applying basic pandas statistical methods on dataframe.
+
+![Screenshot_11](https://user-images.githubusercontent.com/46135898/67658138-8ee1cd80-f97a-11e9-9a5f-82df8497085e.png)
+
+![Screenshot_12](https://user-images.githubusercontent.com/46135898/67658141-92755480-f97a-11e9-8bc6-c150ce48251a.png)
+
+### 3. Data Cleaning:
+Now we prepare data for analysis by removing unnecessary columns exist in both tables(dataframes).
+
+![Screenshot_13](https://user-images.githubusercontent.com/46135898/67658145-94d7ae80-f97a-11e9-983d-a36c
+
+### 4. Data Visualization:
+Now its time to visualize data by creating Line and Bar charts for gdp and unemployement table.
+
+![Screenshot_14](https://user-images.githubusercontent.com/46135898/67658147-96a17200-f97a-11e9-87ee-245410c2f955.png)
+
+![Screenshot_15](https://user-images.githubusercontent.com/46135898/67658152-999c6280-f97a-11e9-8730-a8c3b2b7ed25.png)
+
+### 5. Comparison between GDP V/S Unemployment:
+In this stage we compare both tables by visualizing then in line or bar charts and observe the result.
+
+![Screenshot_16](https://user-images.githubusercontent.com/46135898/67658169-a620bb00-f97a-11e9-902f-f66416693723.png)
+
+![Screenshot_19](https://user-images.githubusercontent.com/46135898/67658234-d0727880-f97a-11e9-8d29-ed71ae7845e4.png)
+
+
 
 
 

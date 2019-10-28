@@ -20,6 +20,10 @@ Now we explain every step of our project in detail with screenshots.
 ### 1. Data Collection: 
 First of all, we collect data from the given source. Since this project belongs to <b> Coursera Project</b>, So we use link provided by Coursera to read both csv files(gdp & unemployment).<br>
 
+![Screenshot_8](https://user-images.githubusercontent.com/46135898/67658114-7d002a80-f97a-11e9-8c41-6d5d4bee485e.png)
+
+![Screenshot_9](https://user-images.githubusercontent.com/46135898/67658125-838ea200-f97a-11e9-9c97-03fc833db071.png)
+
 
 
 
